@@ -4,6 +4,11 @@
 
 Esta aplicacion muestra en forma de una cuadricula de colores los pasos que se deben seguir para hallar la `constante de kaprekar`
 
+### Muestra del resultado de la operacion
+`Esta es la muestra de la ejecucion del programa con los numeros del 1000 al 9999`
+
+![Alt text](alfombra.png?raw=true "Title")
+
 ## Constante de Kaprekar
 
 El número **6174** es conocido como la Constante de Kaprekar en honor de su descubridor el matemático indio Dattatreya Ramachandra Kaprekar. Este número es el resultado de la aplicación repetida de la Operación de Kaprekar que consiste en los siguientes pasos:
